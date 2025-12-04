@@ -2,7 +2,7 @@
 
 public class DataRow {
     double y;
-    double[]x;
+    double[] x;
     
 
     /**
